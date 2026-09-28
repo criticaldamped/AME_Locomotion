@@ -1,0 +1,12 @@
+# Store assets directly so browser ZIP downloads contain usable files.
+# Current assets are below GitHub's single-file limit; Git LFS is not required.
+*.usd -text
+*.usdc -text
+*.usdz -text
+*.pt -text
+*.jit -text
+*.psd -text
+*.hdr -text
+*.gif -text
+*.mp4 -text
+*.hdf5 -text

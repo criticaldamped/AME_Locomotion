@@ -1,0 +1,31 @@
+{
+  "repository": "https://github.com/unitreerobotics/unitree_model",
+  "commit": "b6a8942b0803b6c137e58cef12beb4b03e4a2fa7",
+  "files": {
+    "unitree_model/Go2/usd/go2.usd": {
+      "sha256": "fd3c8c23c97cea3208fae1ab5eeacba4ffa616fe5f1397be6c7edf4feb93f180",
+      "bytes": 1601,
+      "url": "https://media.githubusercontent.com/media/unitreerobotics/unitree_model/b6a8942b0803b6c137e58cef12beb4b03e4a2fa7/Go2/usd/go2.usd"
+    },
+    "unitree_model/Go2/usd/configuration/go2_description_base.usd": {
+      "sha256": "eeed42fb9e41395c47bc3fac7ff5d58625ac62f44bfa5a09cacebff83229c7a0",
+      "bytes": 18806122,
+      "url": "https://media.githubusercontent.com/media/unitreerobotics/unitree_model/b6a8942b0803b6c137e58cef12beb4b03e4a2fa7/Go2/usd/configuration/go2_description_base.usd"
+    },
+    "unitree_model/Go2/usd/configuration/go2_description_physics.usd": {
+      "sha256": "43800f436b3533c869f0b7774e5c70bc4291579df70a62263f808fb1a8f05505",
+      "bytes": 6829,
+      "url": "https://media.githubusercontent.com/media/unitreerobotics/unitree_model/b6a8942b0803b6c137e58cef12beb4b03e4a2fa7/Go2/usd/configuration/go2_description_physics.usd"
+    },
+    "unitree_model/Go2/usd/configuration/go2_description_sensor.usd": {
+      "sha256": "d63cfa5964eb5a72b8e2a02dc89448881497717f21d76b1ec9683a92cb765a16",
+      "bytes": 655,
+      "url": "https://media.githubusercontent.com/media/unitreerobotics/unitree_model/b6a8942b0803b6c137e58cef12beb4b03e4a2fa7/Go2/usd/configuration/go2_description_sensor.usd"
+    },
+    "unitree_model/Go2/LICENSE": {
+      "sha256": "d62cbfaf8906d8d8d2315dc43f375165a2b76a8fb56cfedecc28929ec2e83752",
+      "bytes": 1558,
+      "url": "https://raw.githubusercontent.com/unitreerobotics/unitree_model/b6a8942b0803b6c137e58cef12beb4b03e4a2fa7/LICENSE"
+    }
+  }
+}
